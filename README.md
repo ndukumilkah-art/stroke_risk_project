@@ -21,7 +21,7 @@ This project focuses on predicting stroke risk using healthcare data and machine
 - Olufunke
 - Abdulmumin
 - Olanrewaj
-- Juliet Ozoa
+- Juliet Ozoagu
 - Nurudeen
 - Joelina
 - Victor
