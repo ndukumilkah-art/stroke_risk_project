@@ -1,4 +1,4 @@
-# **Stroke Risk Prediction Project**
+# **Stroke Risk Prediction Project (Team Megatron)**
 Predicting stroke occurrence using machine learning techniques based on medical and lifestyle factors. 
 
 ## **Overview**
@@ -24,7 +24,7 @@ This project aims to build a predictive model for stroke occurrence using a data
 - Matplotlib & Seaborn
   
 - ## **Team Members**
-- Favour Oluchukwu Okolie
+- Favour Oluchukwu Okolie (GL)
 - Milkah Nduku Mutua
 - Abdulmumin Abidoye
 - Juliet Oluchi Ozoagu
